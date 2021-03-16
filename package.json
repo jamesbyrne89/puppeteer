@@ -46,7 +46,7 @@
     "@types/debug": "0.0.31",
     "@types/extract-zip": "^1.6.2",
     "@types/mime": "^2.0.0",
-    "@types/node": "^8.10.34",
+    "@types/node": "^14.14.35",
     "@types/rimraf": "^2.0.2",
     "@types/ws": "^6.0.1",
     "commonmark": "^0.28.1",
